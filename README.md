@@ -106,6 +106,3 @@ Built with ❤️ using Next.js and Supabase.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
